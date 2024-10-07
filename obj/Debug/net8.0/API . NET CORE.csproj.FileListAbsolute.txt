@@ -1,0 +1,32 @@
+D:\Cursos\API . NET CORE\bin\Debug\net8.0\appsettings.Development.json
+D:\Cursos\API . NET CORE\bin\Debug\net8.0\appsettings.json
+D:\Cursos\API . NET CORE\bin\Debug\net8.0\API . NET CORE.exe
+D:\Cursos\API . NET CORE\bin\Debug\net8.0\API . NET CORE.deps.json
+D:\Cursos\API . NET CORE\bin\Debug\net8.0\API . NET CORE.runtimeconfig.json
+D:\Cursos\API . NET CORE\bin\Debug\net8.0\API . NET CORE.dll
+D:\Cursos\API . NET CORE\bin\Debug\net8.0\API . NET CORE.pdb
+D:\Cursos\API . NET CORE\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Cursos\API . NET CORE\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Cursos\API . NET CORE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Cursos\API . NET CORE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Cursos\API . NET CORE\obj\Debug\net8.0\API . NET CORE.csproj.AssemblyReference.cache
+D:\Cursos\API . NET CORE\obj\Debug\net8.0\API . NET CORE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\API . NET CORE\obj\Debug\net8.0\API . NET CORE.AssemblyInfoInputs.cache
+D:\Cursos\API . NET CORE\obj\Debug\net8.0\API . NET CORE.AssemblyInfo.cs
+D:\Cursos\API . NET CORE\obj\Debug\net8.0\API . NET CORE.csproj.CoreCompileInputs.cache
+D:\Cursos\API . NET CORE\obj\Debug\net8.0\API . NET CORE.MvcApplicationPartsAssemblyInfo.cs
+D:\Cursos\API . NET CORE\obj\Debug\net8.0\API . NET CORE.MvcApplicationPartsAssemblyInfo.cache
+D:\Cursos\API . NET CORE\obj\Debug\net8.0\staticwebassets.build.json
+D:\Cursos\API . NET CORE\obj\Debug\net8.0\staticwebassets.development.json
+D:\Cursos\API . NET CORE\obj\Debug\net8.0\staticwebassets\msbuild.API . NET CORE.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Cursos\API . NET CORE\obj\Debug\net8.0\staticwebassets\msbuild.build.API . NET CORE.props
+D:\Cursos\API . NET CORE\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API . NET CORE.props
+D:\Cursos\API . NET CORE\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API . NET CORE.props
+D:\Cursos\API . NET CORE\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Cursos\API . NET CORE\obj\Debug\net8.0\scopedcss\bundle\API . NET CORE.styles.css
+D:\Cursos\API . NET CORE\obj\Debug\net8.0\API . NE.8768125E.Up2Date
+D:\Cursos\API . NET CORE\obj\Debug\net8.0\API . NET CORE.dll
+D:\Cursos\API . NET CORE\obj\Debug\net8.0\refint\API . NET CORE.dll
+D:\Cursos\API . NET CORE\obj\Debug\net8.0\API . NET CORE.pdb
+D:\Cursos\API . NET CORE\obj\Debug\net8.0\API . NET CORE.genruntimeconfig.cache
+D:\Cursos\API . NET CORE\obj\Debug\net8.0\ref\API . NET CORE.dll
